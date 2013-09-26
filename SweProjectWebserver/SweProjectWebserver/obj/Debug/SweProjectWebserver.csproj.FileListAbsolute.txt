@@ -1,0 +1,9 @@
+c:\users\sevilmis\documents\visual studio 2012\Projects\SweProjectWebserver\SweProjectWebserver\bin\Debug\SweProjectWebserver.exe.config
+c:\users\sevilmis\documents\visual studio 2012\Projects\SweProjectWebserver\SweProjectWebserver\bin\Debug\SweProjectWebserver.exe
+c:\users\sevilmis\documents\visual studio 2012\Projects\SweProjectWebserver\SweProjectWebserver\bin\Debug\SweProjectWebserver.pdb
+c:\users\sevilmis\documents\visual studio 2012\Projects\SweProjectWebserver\SweProjectWebserver\obj\Debug\SweProjectWebserver.csprojResolveAssemblyReference.cache
+c:\users\sevilmis\documents\visual studio 2012\Projects\SweProjectWebserver\SweProjectWebserver\obj\Debug\SweProjectWebserver.exe
+c:\users\sevilmis\documents\visual studio 2012\Projects\SweProjectWebserver\SweProjectWebserver\obj\Debug\SweProjectWebserver.pdb
+C:\Users\Sevilmis\Documents\GitHub\SweProject\SweProjectWebserver\SweProjectWebserver\bin\Debug\SweProjectWebserver.exe.config
+C:\Users\Sevilmis\Documents\GitHub\SweProject\SweProjectWebserver\SweProjectWebserver\obj\Debug\SweProjectWebserver.exe
+C:\Users\Sevilmis\Documents\GitHub\SweProject\SweProjectWebserver\SweProjectWebserver\obj\Debug\SweProjectWebserver.pdb
