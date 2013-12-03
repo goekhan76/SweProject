@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sweWebServer", "sweWebServer\sweWebServer.csproj", "{6043EDD3-7EE6-4DCC-A67B-204C72DED2A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperaturePlugin", "TemperaturePlugin\TemperaturePlugin.csproj", "{A567C902-06E5-4749-908D-F5E66293E074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatPlugin", "StatPlugin\StatPlugin.csproj", "{7D92EC84-9141-4462-89D3-CC3043D5B114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperaturePluginTests", "TemperaturePluginTests\TemperaturePluginTests.csproj", "{E280E43C-CCFA-4EDC-ABA0-8B814FBF8FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6043EDD3-7EE6-4DCC-A67B-204C72DED2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6043EDD3-7EE6-4DCC-A67B-204C72DED2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6043EDD3-7EE6-4DCC-A67B-204C72DED2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6043EDD3-7EE6-4DCC-A67B-204C72DED2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A567C902-06E5-4749-908D-F5E66293E074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A567C902-06E5-4749-908D-F5E66293E074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A567C902-06E5-4749-908D-F5E66293E074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A567C902-06E5-4749-908D-F5E66293E074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D92EC84-9141-4462-89D3-CC3043D5B114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D92EC84-9141-4462-89D3-CC3043D5B114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D92EC84-9141-4462-89D3-CC3043D5B114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D92EC84-9141-4462-89D3-CC3043D5B114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E280E43C-CCFA-4EDC-ABA0-8B814FBF8FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E280E43C-CCFA-4EDC-ABA0-8B814FBF8FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E280E43C-CCFA-4EDC-ABA0-8B814FBF8FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E280E43C-CCFA-4EDC-ABA0-8B814FBF8FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

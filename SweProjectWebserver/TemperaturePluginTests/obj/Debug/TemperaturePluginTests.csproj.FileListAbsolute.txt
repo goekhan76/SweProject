@@ -1,0 +1,9 @@
+C:\Users\Sevilmis\Desktop\sweWebServer\TemperaturePluginTests\bin\Debug\TemperaturePluginTests.dll
+C:\Users\Sevilmis\Desktop\sweWebServer\TemperaturePluginTests\bin\Debug\TemperaturePluginTests.pdb
+C:\Users\Sevilmis\Desktop\sweWebServer\TemperaturePluginTests\bin\Debug\sweWebServer.exe
+C:\Users\Sevilmis\Desktop\sweWebServer\TemperaturePluginTests\bin\Debug\TemperaturePlugin.dll
+C:\Users\Sevilmis\Desktop\sweWebServer\TemperaturePluginTests\bin\Debug\sweWebServer.pdb
+C:\Users\Sevilmis\Desktop\sweWebServer\TemperaturePluginTests\bin\Debug\TemperaturePlugin.pdb
+C:\Users\Sevilmis\Desktop\sweWebServer\TemperaturePluginTests\obj\Debug\TemperaturePluginTests.csprojResolveAssemblyReference.cache
+C:\Users\Sevilmis\Desktop\sweWebServer\TemperaturePluginTests\obj\Debug\TemperaturePluginTests.dll
+C:\Users\Sevilmis\Desktop\sweWebServer\TemperaturePluginTests\obj\Debug\TemperaturePluginTests.pdb

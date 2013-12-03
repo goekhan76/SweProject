@@ -1,0 +1,7 @@
+C:\Users\Sevilmis\Desktop\sweWebServer\StatPlugin\bin\Debug\StatPlugin.dll
+C:\Users\Sevilmis\Desktop\sweWebServer\StatPlugin\bin\Debug\StatPlugin.pdb
+C:\Users\Sevilmis\Desktop\sweWebServer\StatPlugin\bin\Debug\sweWebServer.exe
+C:\Users\Sevilmis\Desktop\sweWebServer\StatPlugin\bin\Debug\sweWebServer.pdb
+C:\Users\Sevilmis\Desktop\sweWebServer\StatPlugin\obj\Debug\StatPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Sevilmis\Desktop\sweWebServer\StatPlugin\obj\Debug\StatPlugin.dll
+C:\Users\Sevilmis\Desktop\sweWebServer\StatPlugin\obj\Debug\StatPlugin.pdb
